@@ -1,0 +1,17 @@
+{
+    "name": "mohammadreza/form-generator",
+    "description": "make form from json input data.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "devmrh",
+            "email": "dev.mohammadreza@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "devmrh\\formgenerator\\": "src/"
+        }
+    }
+}
